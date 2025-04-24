@@ -102,8 +102,11 @@ jupyter notebook titanic_preprocessing.ipynb
 
 _Screenshots of before and after cleaning or visualizations here._
 
-![before cleaning](<Screenshot 2025-04-24 111212.png>)
-![After Cleaning](<Screenshot 2025-04-24 122002.png>)
+![Screenshot 2025-04-24 111212](https://github.com/user-attachments/assets/f8ee25a6-8e72-45ad-8814-9fd100f54b1b)
+![Screenshot 2025-04-24 121936](https://github.com/user-attachments/assets/eb69a024-aa59-4f0b-aefd-8f5811362090)
+![Screenshot 2025-04-24 122002](https://github.com/user-attachments/assets/e3c172d4-b5d2-4c89-af2e-783e82cb08b3)
+
+
 ---
 
 ## 👤 Author
